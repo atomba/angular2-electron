@@ -1,0 +1,10 @@
+node_modules/
+.sass-cache/
+typings/
+npm-debug.log*
+dist/
+.DS_Store
+src/.baseDir.ts
+index.html
+.tscache/
+**/**/.baseDir.ts
